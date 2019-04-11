@@ -1,4 +1,7 @@
-# NRKbeta AutoCam.
+# NRKbeta AutoCam
+
+![NRKbeta autocam](https://nrkbeta.no/wp-content/uploads/2019/04/AutoCam-5658-620x349.jpg)
+
 This code is made to perform ad lib video production, and has been tested on Arduino Uno
 Ethernet, Mega and Mega ADK.
 
